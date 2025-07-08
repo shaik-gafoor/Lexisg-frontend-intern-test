@@ -4,6 +4,8 @@ Live Url: https://lexisg-frontend.netlify.app/
 
 A modern legal assistant interface built with React, Vite, and Tailwind CSS. This application simulates a ChatGPT-like interface for legal queries with proper citation handling and PDF document linking.
 
+<img src="src/assets/image.png" alt="Screenshot" width="600"/>
+
 ## Features
 
 - **ChatGPT-like Interface**: Clean, modern chat interface for legal queries
