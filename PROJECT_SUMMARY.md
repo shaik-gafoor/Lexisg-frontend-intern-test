@@ -97,7 +97,7 @@ The PDF modal includes:
 ### Development
 
 ```bash
-git clone https://github.com/yourusername/Lexisg-frontend-intern-test.git
+git clone https://github.com/shaik-gafoor/Lexisg-frontend-intern-test.git
 cd Lexisg-frontend-intern-test
 npm install
 npm run dev
@@ -212,8 +212,8 @@ If this were a production application, the following enhancements would be valua
 
 For questions or clarifications about this implementation:
 
-- Email: hi@lexi.sg
-- GitHub: [Repository Link]
+- Email: gafoor7898@gmail.com
+- GitHub: https://github.com/shaik-gafoor/Lexisg-frontend-intern-test.git
 
 ---
 
