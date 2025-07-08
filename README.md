@@ -1,5 +1,7 @@
 # Lexi Legal Assistant Frontend
 
+Live Url: https://lexisg-frontend.netlify.app/
+
 A modern legal assistant interface built with React, Vite, and Tailwind CSS. This application simulates a ChatGPT-like interface for legal queries with proper citation handling and PDF document linking.
 
 ## Features
