@@ -39,7 +39,7 @@ In a motor accident claim where the deceased was self-employed and aged 54–55 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Lexisg-frontend-intern-test.git
+git clone https://github.com/shaik-gafoor/Lexisg-frontend-intern-test.git
 cd Lexisg-frontend-intern-test
 ```
 
@@ -105,28 +105,10 @@ src/
 - Responsive layout that works on all screen sizes
 - Proper spacing and typography
 
-## Future Enhancements
-
-- [ ] Real PDF rendering with react-pdf
-- [ ] Text highlighting within PDF documents
-- [ ] Auto-scroll to specific paragraphs
-- [ ] Multiple citation sources
-- [ ] Search functionality
-- [ ] Export conversation to PDF
-- [ ] Backend API integration
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-For questions or support, please email: hi@lexi.sg
+For questions or support, please email: gafoor7898@gmail.com
